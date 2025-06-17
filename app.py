@@ -44,6 +44,3 @@ if uploaded_file:
         gpt_response = ask_cohere(df, gpt_question)
         st.write(gpt_response)
 
-if __name__ == "__main__":
-    main()
-    
