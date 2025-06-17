@@ -86,10 +86,5 @@ streamlit run app.py
 
 ## 🙌 Author
 
-Built by [Pranav](https://github.com/pranav290804) — CS undergrad passionate about AI + Finance.
+Built by [Pranav](https://github.com/pranav290804)
 
----
-
-## 📄 License
-
-MIT License
