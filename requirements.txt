@@ -4,3 +4,4 @@ cohere
 python-dotenv
 scikit-learn
 matplotlib
+seaborn
